@@ -1,4 +1,4 @@
-<h1 align="center">NestJS project, implementing Vue3 as frontend as Single Page Application</h1>
+<h1 align="center">NestJS project, implementing Vue3 as frontend in a Single Page Application</h1>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
